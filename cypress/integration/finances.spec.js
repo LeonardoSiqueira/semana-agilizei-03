@@ -73,7 +73,7 @@ context("Dev Finances Agilizei", () => {
       .children("img[onclick*=remove]")
       .click();
   });
-  it("Validar saldo com diversas transações", () => {
+  it("Validar saldos com diversas transações", () => {
     //  capturar as linhas com as transações
     // formatar esses valores das linhas
 
